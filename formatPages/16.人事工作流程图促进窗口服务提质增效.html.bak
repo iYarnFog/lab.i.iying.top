@@ -1,5 +1,5 @@
 
-<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=utf8" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>admin</o:Author><o:LastAuthor>çº¸ä¼žä¸‹çš„çƒŸé›¨</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>1</o:Pages></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.11194</o:KSOProductBuildVer><o:ICV dt:dt="string" >706478271531401FBAE529946076EB21</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 ç£…</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Web</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>admin</o:Author><o:LastAuthor>Ö½É¡ÏÂµÄÑÌÓê</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>1</o:Pages></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.11194</o:KSOProductBuildVer><o:ICV dt:dt="string" >706478271531401FBAE529946076EB21</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 °õ</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Web</w:View><w:Compatibility><w:AdjustLineHeightInTable/><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
     <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
@@ -263,7 +263,7 @@ font-family:"Times New Roman";
 }
 
 @font-face{
-font-family:"å®‹ä½“";
+font-family:"ËÎÌå";
 }
 
 @font-face{
@@ -275,7 +275,7 @@ font-family:"Wingdings";
 }
 
 p.MsoNormal{
-mso-style-name:æ­£æ–‡;
+mso-style-name:ÕýÎÄ;
 mso-style-parent:"";
 margin:0pt;
 margin-bottom:.0001pt;
@@ -283,7 +283,7 @@ mso-pagination:none;
 text-align:justify;
 text-justify:inter-ideograph;
 font-family:Calibri;
-mso-fareast-font-family:å®‹ä½“;
+mso-fareast-font-family:ËÎÌå;
 mso-bidi-font-family:'Times New Roman';
 font-size:10.5000pt;
 mso-font-kerning:1.0000pt;
@@ -309,7 +309,7 @@ color:red;
 }
 
 table.MsoNormalTable{
-mso-style-name:æ™®é€šè¡¨æ ¼;
+mso-style-name:ÆÕÍ¨±í¸ñ;
 mso-style-parent:"";
 mso-style-noshow:yes;
 mso-tstyle-rowband-size:0;
@@ -335,38 +335,38 @@ layout-grid:15.6000pt;
 mso-header-margin:42.5500pt;
 mso-footer-margin:49.6000pt;
 }
-div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >åšæŒæŠŠ</font>â€œä¸ºæ•™èŒå·¥åŠžå®žäº‹â€ä½œä¸ºå…šå²å­¦ä¹ æ•™è‚²çš„å‡ºå‘ç‚¹ã€è½è„šç‚¹ã€‚</span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ç»“åˆå·¥ä½œå®žé™…ï¼Œäººäº‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >å¤„</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >æŒ‰ç…§</font>â€œä¾è§„</span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >åŠžäº‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ã€ç®€åŒ–ç¨‹åºã€æé«˜æ•ˆçŽ‡</font>â€åŽŸåˆ™ï¼Œ</span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ç”±ç§‘å®¤é›†æ€å¹¿ç›Šã€è®¤çœŸ</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >æ¢³ç†å¹¶ç¼–åˆ¶</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >å®Œæˆ</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ã€Šæ–°è¿›æ•™èŒå·¥æŠ¥åˆ°æµç¨‹å›¾ã€‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ã€Šæ ¡å†…å²—ä½è°ƒé…å·¥ä½œæµç¨‹å›¾ã€‹ã€Šæ•™èŒå·¥è¯·é”€å‡æ‰‹ç»­åŠžç†æµç¨‹å›¾ã€‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ç­‰</font>13é¡¹å·¥ä½œè§„èŒƒã€æ‰‹ç»­åŠžç†æµç¨‹å›¾ï¼Œ</span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >å®žçŽ°äº†ä»Žäººäº‹æ”¿ç­–å…¬å¼€åˆ°åŠžç†æµç¨‹å…¬å¼€ï¼Œ</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;color:rgb(0,0,0);
-mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ä½“çŽ°äº†äººäº‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ä¸šåŠ¡åŠžç†çº¿ä¸Š</font>â€œå¤šæœåŠ¡â€ã€æ•™èŒå·¥çº¿ä¸‹â€œå°‘è·‘è·¯â€ä¸ºæ°‘å®—æ—¨ï¼Œåˆ‡å®ž</span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >æé«˜</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >äº†äººäº‹æœåŠ¡æ•ˆèƒ½</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ï¼Œæœ‰æ•ˆè§£å†³äº†</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ä¸šåŠ¡æµç¨‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ä¸</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >æ˜Ž</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >æ™°ã€</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >åŠžç†å‘¨æœŸé•¿</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ç­‰é—®é¢˜</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ï¼Œè¿›ä¸€æ­¥</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >å°†å…šå²å­¦ä¹ æ•™è‚²æˆæ•ˆè½¬åŒ–ä¸º</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >äººäº‹</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >å·¥ä½œå®žæ•ˆï¼Œä»¥</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >è®¤è¯†æå‡</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ä¿ƒ</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >æœåŠ¡æå‡</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><font face="å®‹ä½“" >ã€‚</font></span><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
-mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><img width="553"  height="415"  src="16.äººäº‹å·¥ä½œæµç¨‹å›¾ä¿ƒè¿›çª—å£æœåŠ¡æè´¨å¢žæ•ˆ.files/16.äººäº‹å·¥ä½œæµç¨‹å›¾ä¿ƒè¿›çª—å£æœåŠ¡æè´¨å¢žæ•ˆ252.png" ><span style="mso-spacerun:'yes';font-family:å®‹ä½“;font-size:12.0000pt;
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >¼á³Ö°Ñ</font>¡°Îª½ÌÖ°¹¤°ìÊµÊÂ¡±×÷Îªµ³Ê·Ñ§Ï°½ÌÓýµÄ³ö·¢µã¡¢Âä½Åµã¡£</span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >½áºÏ¹¤×÷Êµ¼Ê£¬ÈËÊÂ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >´¦</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >°´ÕÕ</font>¡°ÒÀ¹æ</span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >°ìÊÂ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >¡¢¼ò»¯³ÌÐò¡¢Ìá¸ßÐ§ÂÊ</font>¡±Ô­Ôò£¬</span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÓÉ¿ÆÊÒ¼¯Ë¼¹ãÒæ¡¢ÈÏÕæ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÊáÀí²¢±àÖÆ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >Íê³É</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >¡¶ÐÂ½ø½ÌÖ°¹¤±¨µ½Á÷³ÌÍ¼¡·</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >¡¶Ð£ÄÚ¸ÚÎ»µ÷Åä¹¤×÷Á÷³ÌÍ¼¡·¡¶½ÌÖ°¹¤ÇëÏú¼ÙÊÖÐø°ìÀíÁ÷³ÌÍ¼¡·</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >µÈ</font>13Ïî¹¤×÷¹æ·¶¡¢ÊÖÐø°ìÀíÁ÷³ÌÍ¼£¬</span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÊµÏÖÁË´ÓÈËÊÂÕþ²ß¹«¿ªµ½°ìÀíÁ÷³Ì¹«¿ª£¬</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;color:rgb(0,0,0);
+mso-bidi-font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÌåÏÖÁËÈËÊÂ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÒµÎñ°ìÀíÏßÉÏ</font>¡°¶à·þÎñ¡±¡¢½ÌÖ°¹¤ÏßÏÂ¡°ÉÙÅÜÂ·¡±ÎªÃñ×ÚÖ¼£¬ÇÐÊµ</span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >Ìá¸ß</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÁËÈËÊÂ·þÎñÐ§ÄÜ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >£¬ÓÐÐ§½â¾öÁË</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÒµÎñÁ÷³Ì</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >²»</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >Ã÷</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >Îú¡¢</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >°ìÀíÖÜÆÚ³¤</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >µÈÎÊÌâ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >£¬½øÒ»²½</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >½«µ³Ê·Ñ§Ï°½ÌÓý³ÉÐ§×ª»¯Îª</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÈËÊÂ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >¹¤×÷ÊµÐ§£¬ÒÔ</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >ÈÏÊ¶ÌáÉý</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >´Ù</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >·þÎñÌáÉý</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><font face="ËÎÌå" >¡£</font></span><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><img width="553"  height="415"  src="16.ÈËÊÂ¹¤×÷Á÷³ÌÍ¼´Ù½ø´°¿Ú·þÎñÌáÖÊÔöÐ§.files/16.ÈËÊÂ¹¤×÷Á÷³ÌÍ¼´Ù½ø´°¿Ú·þÎñÌáÖÊÔöÐ§252.png" ><span style="mso-spacerun:'yes';font-family:ËÎÌå;font-size:12.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></div><!--EndFragment--></body></html>
